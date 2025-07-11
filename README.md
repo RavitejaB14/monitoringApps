@@ -74,3 +74,16 @@ Step3: Open in browser
 ```bash
 http://localhost:9100/metrics
 ```
+
+
+## Other ways to Install Prometheus:
+
+go to "https://prometheus.io/download/" and Download tar.gz file
+
+## unzip 
+
+```bash
+tar -xvzf prometheus-3.4.2.darwin-arm64.tar.gz
+```
+
+
